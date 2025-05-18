@@ -1,0 +1,13 @@
+{
+  "visualization": "curved-funnel",
+  "name": "Curved Funnel Chart",
+  "description": "Funil com curvas orgânicas dinâmicas",
+  "resources": {
+    "js": ["https://raw.githubusercontent.com/SEU_USUARIO/curved-funnel-looker/main/viz.js"],
+    "css": []
+  },
+  "data": {
+    "dimensions": 1,
+    "metrics": 1
+  }
+}
